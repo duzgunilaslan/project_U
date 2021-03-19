@@ -1,0 +1,6 @@
+
+*.py
+db.sqlite3
+Deep_learning_for_natural_language_processing_Adva.pdf
+*.pyc
+*.pdf
