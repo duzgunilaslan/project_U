@@ -1,5 +1,8 @@
 # project_U
+
 Article Summarization
+
+https://www.youtube.com/watch?v=9xcWVZoCn5k
 
 Note:
 There is a my_site folder because using Django and main page is view.py in the myapp folder
